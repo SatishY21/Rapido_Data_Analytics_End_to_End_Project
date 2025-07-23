@@ -31,64 +31,69 @@ The data used in this project includes structured trip-level and customer-level 
 
 ## 🚀 Features
 ### 📊 1. Overall Bookings Dashboard
-Displays total bookings and their values.
+* Displays total bookings and their values.
 
-Visual booking success rate over time via a line or bar chart.
+* Visual booking success rate over time via a line or bar chart.
 
-Booking status breakdown (succeeded, cancelled by customer, cancelled by driver, driver not found).
+* Booking status breakdown (succeeded, cancelled by customer, cancelled by driver, driver not found).
 
-Time-based filter to view metrics dynamically by date.
+* Time-based filter to view metrics dynamically by date.
 
 ### 🚗 2. Vehicle Analytics Dashboard
-Shows total distance traveled, average distance, and booking counts per vehicle type.
+* Shows total distance traveled, average distance, and booking counts per vehicle type.
 
-Booking types include: Prime Sedan, Prime SUV, Prime Plus, Mini, Auto, Bike, E-Bike.
+* Booking types include: Prime Sedan, Prime SUV, Prime Plus, Mini, Auto, Bike, E-Bike.
 
-Success booking percentage per vehicle type to understand fleet efficiency.
+* Success booking percentage per vehicle type to understand fleet efficiency.
 
 ### 💸 3. Revenue Dashboard
-Displays revenue by payment method (Cash, Wallet, UPI, etc.).
+* Displays revenue by payment method (Cash, Wallet, UPI, etc.).
 
-Revenue per distance traveled to evaluate pricing efficiency.
+* Revenue per distance traveled to evaluate pricing efficiency.
 
-Top 5 customers by revenue contribution.
+* Top 5 customers by revenue contribution.
 
-Fully interactive with date sliders to view revenue changes over time.
+*Fully interactive with date sliders to view revenue changes over time.
 
 ### ❌ 4. Cancellation Insights Dashboard
-Shows total bookings, successful rides, and total cancellations.
+* Shows total bookings, successful rides, and total cancellations.
 
-Two insightful pie charts:
+* Two insightful pie charts:
 
-Rides cancelled by drivers (with reason-wise breakdown).
+* Rides cancelled by drivers (with reason-wise breakdown).
 
-Rides cancelled by customers.
+* Rides cancelled by customers.
 
-Helps in identifying cancellation trends and target areas for customer support or policy change.
+* Helps in identifying cancellation trends and target areas for customer support or policy change.
 
 ### 🌟 5. Ratings Dashboard
-Provides customer and driver ratings for each vehicle type:
+* Provides customer and driver ratings for each vehicle type:
 
-Prime Sedan, Prime SUV, Prime Plus, Mini, Auto, Bike, E-Bike
+* Prime Sedan, Prime SUV, Prime Plus, Mini, Auto, Bike, E-Bike
 
-Highlights service quality, rider satisfaction, and driver performance.
+* Highlights service quality, rider satisfaction, and driver performance.
 
-Enables performance monitoring by vehicle class and overall service type.
+* Enables performance monitoring by vehicle class and overall service type.
 
-## 📌 Business Impact
+### 📌 Business Impact
 📈 Performance Optimization
-Helps operations teams track ride success rates, cancellations, and optimize vehicle allocation based on demand and distance.
+* Helps operations teams track ride success rates, cancellations, and optimize vehicle allocation based on demand and distance.
 
-## 💰 Revenue Tracking
-Enables financial teams to monitor revenue by source, ride distance, and top contributors, supporting targeted growth strategies.
+### 💰 Revenue Tracking
+* Enables financial teams to monitor revenue by source, ride distance, and top contributors, supporting targeted growth strategies.
 
-## 🚗 Fleet Efficiency
-Provides insights into which vehicle types are performing better in terms of distance, bookings, and customer satisfaction.
+### 🚗 Fleet Efficiency
+* Provides insights into which vehicle types are performing better in terms of distance, bookings, and customer satisfaction.
 
-## 📉 Cancellation Reduction
-Identifies root causes of ride cancellations, assisting in reducing failed trips and improving customer retention.
+### 📉 Cancellation Reduction
+* Identifies root causes of ride cancellations, assisting in reducing failed trips and improving customer retention.
 
-## 🌟 Service Quality Improvement
-Tracks customer and driver ratings to ensure high-quality standards and enhance user experience.
+### 🌟 Service Quality Improvement
+* Tracks customer and driver ratings to ensure high-quality standards and enhance user experience.
 
 ### 📷 Dashboard Previews
+1. Overall Bookings Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Overall.png
+2. Vehicle Analytics Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Vehicle%20Type.png
+3. Revenue Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Revenue.png
+4. Cancellation Insights Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Revenue.png
+5. Ratings Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Ratings.png
