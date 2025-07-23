@@ -95,5 +95,5 @@ The data used in this project includes structured trip-level and customer-level 
 1. Overall Bookings Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Overall.png
 2. Vehicle Analytics Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Vehicle%20Type.png
 3. Revenue Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Revenue.png
-4. Cancellation Insights Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Revenue.png
+4. Cancellation Insights Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Cancellation.png
 5. Ratings Dashboard: https://github.com/SatishY21/Rapido_Data_Analytics_End_to_End_Project/blob/main/Ratings.png
